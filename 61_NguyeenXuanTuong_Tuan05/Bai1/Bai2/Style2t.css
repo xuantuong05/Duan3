@@ -1,0 +1,33 @@
+﻿.khung {
+    width: 900px;
+    border: 3px solid blue;
+    margin: auto;
+    overflow: hidden;
+}
+
+.item {
+    border: 3px solid #d835d5;
+    margin: 12px 6px;
+    padding: 12px 6px;
+    background-color: #b7324f;
+    color: white;
+}
+
+#mb {
+    width: 46%;
+    float: left;
+}
+
+#tb {
+    width: 46%;
+    float: right;
+}
+
+#kb {
+    width: 100%;
+    clear: both;
+}
+
+p {
+    text-align: justify;
+}

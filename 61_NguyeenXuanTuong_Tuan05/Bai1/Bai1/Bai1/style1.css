@@ -1,0 +1,36 @@
+﻿.maunen{
+    border: solid 1px green;
+    width:800px;
+}
+h1{ 
+    color:blue;
+    font-size: 30px;
+    font-weight:bold;
+}
+h2{
+    color:blue;
+    font-size:15px;
+    text-decoration: underline;
+}
+#chuthuong{
+    font-size: 10px;
+}
+.m{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.chuden{
+    color:black
+}
+.chudo{
+    color:red;
+}
+chuxanh{
+    color:aquamarine;
+}
+#maume{
+    text-align:center;
+    background-color: yellow;
+}

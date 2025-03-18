@@ -1,0 +1,62 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+.khung {
+    width: 470px;
+    height: 210px;
+    border: 3px solid blue;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #ffffcc;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.tieu-de {
+    color: red;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.noi-dung {
+    text-align: justify;
+    font-size: 16px;
+    color: black;
+    padding: 0 15px;
+    text-indent: 30px;
+}
+
+.khung2 {
+    background-image: url('anh/anhdep.jpg');
+    width: 300px;
+    height: 300px;
+    border: 3px solid blue;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    position: relative;
+    border-radius: 15px;
+}
+
+.hinh-anh {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.tieu-de2 {
+    color: yellow;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.noi-dung2 {
+    text-indent: 30px;
+    text-align: justify;
+    font-size: 16px;
+    padding: 0 15px;
+}
